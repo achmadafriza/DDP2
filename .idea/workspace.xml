@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TP2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4da86dd2-b060-4a26-b18d-06d3c38c8bd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DDP2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1X0K9pnzeaMjheuHhETd80Pg1jw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TP4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\Java\DDP2\TP4" />
+      <recent name="C:\Programming\Java\DDP2\Lab10" />
+      <recent name="C:\Programming\Java\DDP2\TP3" />
+      <recent name="C:\Programming\Java\DDP2\Lab9" />
+      <recent name="C:\Programming\Java\DDP2\Lab8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Evaluator">
+    <configuration name="CreditCardValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp1.ddp2.CreditCardValidation" />
+      <module name="TP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp1.ddp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Evaluator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddp2.tp4.Evaluator" />
+      <module name="TP4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ddp2.tp4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveStickMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddp2.tp3.MoveStickMan" />
+      <module name="TP3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ddp2.tp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddp2.tp2.TestMagicSquare" />
+      <module name="TP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ddp2.tp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/TP2_jar/TP2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Evaluator" />
+        <item itemvalue="Application.MoveStickMan" />
+        <item itemvalue="Application.TestMagicSquare" />
+        <item itemvalue="JAR Application.TP2.jar" />
+        <item itemvalue="Application.CreditCardValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Achmad Afriza\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da86dd2-b060-4a26-b18d-06d3c38c8bd1" name="Default Changelist" comment="" />
+      <created>1580177423604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580177423604</updated>
+      <workItem from="1580177431295" duration="287000" />
+      <workItem from="1580193053993" duration="2440000" />
+      <workItem from="1580195749292" duration="871000" />
+      <workItem from="1580892950666" duration="2426000" />
+      <workItem from="1582104826050" duration="4082000" />
+      <workItem from="1582361391135" duration="8383000" />
+      <workItem from="1582525226653" duration="4919000" />
+      <workItem from="1582708595785" duration="2947000" />
+      <workItem from="1582788665111" duration="763000" />
+      <workItem from="1582808548062" duration="1548000" />
+      <workItem from="1583918217567" duration="2859000" />
+      <workItem from="1584101301525" duration="6448000" />
+      <workItem from="1585879168320" duration="6257000" />
+      <workItem from="1586339287939" duration="1715000" />
+      <workItem from="1586941074222" duration="2531000" />
+      <workItem from="1587543396209" duration="1613000" />
+      <workItem from="1588156175277" duration="2958000" />
+      <workItem from="1588659848660" duration="5951000" />
+      <workItem from="1588738857612" duration="355000" />
+      <workItem from="1588760301722" duration="1849000" />
+      <workItem from="1589361392206" duration="640000" />
+      <workItem from="1590651485413" duration="14562000" />
+      <workItem from="1591003857324" duration="6442000" />
+      <workItem from="1591519738240" duration="8006000" />
+      <workItem from="1591581506133" duration="9165000" />
+      <workItem from="1592626757256" duration="2560000" />
+      <workItem from="1594706745501" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591023326308">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="566" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/65.0.1484.871@65.0.1484.871" timestamp="1591023326308" />
+    <state x="327" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590661721110">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="327" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.0.1484.871@65.0.1484.871" timestamp="1590661721110" />
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom" timestamp="1592628695790">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom/65.0.1484.871@65.0.1484.871" timestamp="1592628695790" />
+    <state width="1441" height="224" key="GridCell.Tab.0.center" timestamp="1592628695789">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.center/65.0.1484.871@65.0.1484.871" timestamp="1592628695789" />
+    <state width="1441" height="224" key="GridCell.Tab.0.left" timestamp="1592628695789">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.left/65.0.1484.871@65.0.1484.871" timestamp="1592628695789" />
+    <state width="1441" height="224" key="GridCell.Tab.0.right" timestamp="1592628695789">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.right/65.0.1484.871@65.0.1484.871" timestamp="1592628695789" />
+    <state x="279" y="23" key="SettingsEditor" timestamp="1592627932853">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="279" y="23" key="SettingsEditor/65.0.1484.871@65.0.1484.871" timestamp="1592627932853" />
+    <state x="516" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1594706747884">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="516" y="261" key="com.intellij.ide.util.TipDialog/65.0.1484.871@65.0.1484.871" timestamp="1594706747884" />
+    <state x="243" y="40" key="new project wizard" timestamp="1591582998568">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="243" y="40" key="new project wizard/65.0.1484.871@65.0.1484.871" timestamp="1591582998568" />
+    <state x="465" y="199" key="run.anything.popup" timestamp="1590654169976">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="465" y="199" key="run.anything.popup/65.0.1484.871@65.0.1484.871" timestamp="1590654169976" />
+    <state x="470" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1591588467226">
+      <screen x="65" y="0" width="1484" height="871" />
+    </state>
+    <state x="470" y="183" width="672" height="678" key="search.everywhere.popup/65.0.1484.871@65.0.1484.871" timestamp="1591588467226" />
+  </component>
+</project>
